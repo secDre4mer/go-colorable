@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	. "github.com/mattn/go-colorable"
+	. "github.com/secDre4mer/go-colorable"
 )
 
 func main() {

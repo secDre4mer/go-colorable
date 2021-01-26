@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/mattn/go-colorable"
+	"github.com/secDre4mer/go-colorable"
 	"github.com/sirupsen/logrus"
 )
 

@@ -1,4 +1,4 @@
-module github.com/mattn/go-colorable
+module github.com/secDre4mer/go-colorable
 
 require (
 	github.com/mattn/go-isatty v0.0.12
